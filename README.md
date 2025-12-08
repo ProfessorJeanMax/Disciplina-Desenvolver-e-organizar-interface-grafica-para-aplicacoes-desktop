@@ -176,6 +176,7 @@ A disciplina contribui diretamente para o PI ao:
     /entregas
     /codigo
 README.md
+...
 
 ---
 
