@@ -172,16 +172,19 @@ A disciplina contribui diretamente para o PI ao:
     /slides
     /exercicios
     /materiais
-/projeto-integrador
+/projeto-final
     /entregas
     /codigo
 README.md
 
+---
 
-🤝 Contribuições
+## 🤝 Contribuições
 
 Estudantes podem sugerir melhorias por meio de Issues ou Pull Requests deste repositório.
 
-📧 Contato
+---
+
+## 📧 Contato
 
 Dúvidas podem ser tiradas em sala ou via canais de comunicação da turma.
